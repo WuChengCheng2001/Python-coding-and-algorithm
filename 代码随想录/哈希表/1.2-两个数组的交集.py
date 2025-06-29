@@ -1,5 +1,8 @@
 '''题意：给定两个数组，编写一个函数来计算它们的交集。'''
 
+# 关键词：
+# 使用集合作为容器
+
 # 直接使用集合
 class Solution:
     def intersection(self, nums1: list[int], 
